@@ -1,5 +1,5 @@
 # 1712097_CDIA_ACVI_2026-27
-$ax^2$+bx+c=0$
+$ax^2$+bx+c = 0$
 
 
 $x=\frac{-b\pm\sqrt b^2-4ac}{2a}$
